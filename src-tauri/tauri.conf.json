@@ -14,7 +14,7 @@
       {
         "title": "Ventulator",
         "width": 440,
-        "height": 620,
+        "height": 660,
         "resizable": false,
         "fullscreen": false,
         "backgroundColor": "#000"
