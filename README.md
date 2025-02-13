@@ -1,10 +1,10 @@
 # Ventulator
 Some dumb shit
 
-# Prerequisite
+# Prerequisites
 * NodeJS
 * Rust
-* Tauri Rust dependencies
+* Visual Studio 2017 or later with C++ (Windows only)
 
 # Developing
 ```
